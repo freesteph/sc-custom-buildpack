@@ -1,0 +1,1 @@
+echo "this is the compile script: $0 $1 $2 $3"

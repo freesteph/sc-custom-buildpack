@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  bp:
+    build: .
+    image: "freesteph/scalingo-custom-buildpack"
+    volumes:
+      - "./build:/build"

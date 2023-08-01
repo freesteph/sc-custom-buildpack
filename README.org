@@ -1,0 +1,4 @@
+* custom-buildpack
+** Description
+A custom Scalingo buildpack
+** Result
